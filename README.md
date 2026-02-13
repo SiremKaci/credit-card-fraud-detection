@@ -16,8 +16,6 @@ Ce projet met l'accent sur les métriques adaptées aux classes déséquilibrée
 - Réduction significative des faux négatifs comparé à un modèle basique.
 - Interprétabilité : SHAP values montrent que V14 et V17 sont les features les plus impactantes.
 
-![PR Curve](Multimedia.jpg)  
-*Courbe Precision-Recall du modèle XGBoost (AP score élevé)*
 
 ## Technologies
 
